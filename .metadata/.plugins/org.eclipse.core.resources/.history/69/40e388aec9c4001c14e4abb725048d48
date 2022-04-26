@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+button1 {
+	-fx-border: 4px solid #FF0000;
+	-fx-background-color: #0000FF; 
+}

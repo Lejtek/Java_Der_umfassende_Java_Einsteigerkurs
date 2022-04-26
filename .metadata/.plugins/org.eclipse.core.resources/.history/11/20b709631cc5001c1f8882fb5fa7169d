@@ -1,0 +1,4 @@
+.root {
+	-fx-background-color: rgba(0, 255, 0, 0.3);
+	-fx-border: 3px solid black;
+}

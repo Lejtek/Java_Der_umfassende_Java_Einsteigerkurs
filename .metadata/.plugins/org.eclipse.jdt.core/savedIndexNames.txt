@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/marco/Workspace/Java/Java_Der_umfassende_Java_Einsteigerkurs/.metadata/.plugins/org.eclipse.jdt.core
+3176498526.index
+3131589773.index
+1865797976.index
+1049204772.index
